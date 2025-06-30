@@ -14,10 +14,6 @@ Welcome to my Python learning journey! This repository is a structured record of
 |  Python Practice | [`Python_Practice.ipynb`](./Python_Practice.ipynb) |  Complete Python Pratice with all phases (Core, Intermediate, Libraries & Projects) — including tasks, notes, and code examples |
 
 ---
-| Notebook File | Description |
-|---------------|-------------|
-|  [`python_learning_practice.ipynb`](./python_learning_practice.ipynb) | Complete Python roadmap with all phases (Core, Intermediate, Libraries & Projects) — including tasks, notes, and code examples |
-
 
 ##  Full Python Roadmap
 
