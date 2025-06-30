@@ -18,16 +18,16 @@ Welcome to my Python learning journey! This repository is a structured record of
 
 ###  PHASE 1: Core Python Foundations
 
-| Task | Description | Date |
-|------|-------------|------|
- **Task 1: Environment Setup** | Installed Python and set up IDE (VS Code / Google Colab / Jupyter) | `20/05/25 23:10`  
- **Task 2: Python Basics** | `print()`, comments, variables, data types, type casting | `21/05/25 00:22`  
- **Task 3: Operators** | Arithmetic, comparison, logical operators | `21/05/25 01:11`  
- **Task 4: Control Flow** | `if`, `elif`, `else`, `for`, `while`, `break`, `continue`, `pass` | `21/05/25 11:00`  
- **Task 5: Data Structures** | Lists, Tuples, Sets, Dictionaries — with methods and practice | `22/05/25 16:00`  
- **Task 6: Functions** | `def`, `return`, scope, default/keyword args, lambda, map(), filter(), reduce() | `22/05/25 23:30`  
- **Task 7: File Handling** | `open()`, read/write, `with`, basic CSV operations | `23/05/25 01:13`  
- **Task 8: Error Handling** | `try`, `except`, `finally`, `raise` | `23/05/25`  
+| Task | Description |
+|------|-------------|
+ **Task 1: Environment Setup** | Installed Python and set up IDE (VS Code / Google Colab / Jupyter) | 
+ **Task 2: Python Basics** | `print()`, comments, variables, data types, type casting |   
+ **Task 3: Operators** | Arithmetic, comparison, logical operators | 
+ **Task 4: Control Flow** | `if`, `elif`, `else`, `for`, `while`, `break`, `continue`, `pass` |  
+ **Task 5: Data Structures** | Lists, Tuples, Sets, Dictionaries — with methods and practice | 
+ **Task 6: Functions** | `def`, `return`, scope, default/keyword args, lambda, map(), filter(), reduce() |  
+ **Task 7: File Handling** | `open()`, read/write, `with`, basic CSV operations | 
+ **Task 8: Error Handling** | `try`, `except`, `finally`, `raise` |
 
 > 🔗 See: [`phase_1.ipynb`](./phase_1.ipynb)
 
