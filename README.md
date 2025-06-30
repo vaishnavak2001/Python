@@ -1,80 +1,66 @@
-# 🐍 Python Learning Journey: From Basics to Real-World Projects
+# 🐍 Python Learning Roadmap with Projects
 
-Welcome to my Python journey! This repository contains my structured, step-by-step progress in learning Python — from foundational concepts to real-world applications. I've divided the learning into **three major phases**, each captured in its own Jupyter Notebook.
-
----
-
-## 📚 Table of Contents
-
-- [🚀 Project Overview](#-project-overview)
-- [🧠 Learning Phases](#-learning-phases)
-  - [Phase 1: Python Basics](#phase-1-python-basics)
-  - [Phase 2: Core Programming](#phase-2-core-programming)
-  - [Phase 3: Libraries & Real-World Projects](#phase-3-libraries--real-world-projects)
-- [🗺️ Python Roadmap](#-python-roadmap)
-- [📌 Skills Covered](#-skills-covered)
-- [💡 Future Plans](#-future-plans)
+Welcome to my Python learning journey! This repository is a structured record of my path from beginner to intermediate-level Python developer. It includes practical notebooks (`.ipynb` files), real coding exercises, and a roadmap covering all fundamental and real-world skills.
 
 ---
 
-## 🚀 Project Overview
+## 📘 Jupyter Notebooks
 
-This repository is part of my commitment to master Python for data science, AI, and automation. My goal is to gain a strong foundation in Python and apply it to real-world problems, especially in biomedical and healthcare domains.
-
-The journey is broken into **3 notebooks**:
-
-- ✅ `Phase_1_Theory.ipynb` — Python Basics  
-- ✅ `phase_2.ipynb` — Core Programming Concepts  
-- ✅ `phase_3.ipynb` — Popular Libraries & Real-World Tasks
+| Phase | Notebook File | Description |
+|-------|----------------|-------------|
+| ✅ Phase 1 | [`phase_1.ipynb`](./phase_1.ipynb) | Core Python foundations — syntax, data types, loops, functions, file and error handling |
+| ✅ Phase 2 | [`phase_2.ipynb`](./phase_2.ipynb) | Intermediate topics — OOP, Pythonic features, regular expressions |
+| ✅ Phase 3 | [`phase_3.ipynb`](./phase_3.ipynb) | Libraries and real-world projects — NumPy, pandas, API, Flask/Django (intro), and project work |
 
 ---
 
-## 🧠 Learning Phases
+## 🗺️ Full Python Roadmap
 
-### 📘 Phase 1: Python Basics
+### 🚩 PHASE 1: Core Python Foundations
 
-> `phase_1.ipynb`
+| Task | Description | Date |
+|------|-------------|------|
+✅ **Task 1: Environment Setup** | Installed Python and set up IDE (VS Code / Google Colab / Jupyter) | `20/05/25 23:10`  
+✅ **Task 2: Python Basics** | `print()`, comments, variables, data types, type casting | `21/05/25 00:22`  
+✅ **Task 3: Operators** | Arithmetic, comparison, logical operators | `21/05/25 01:11`  
+✅ **Task 4: Control Flow** | `if`, `elif`, `else`, `for`, `while`, `break`, `continue`, `pass` | `21/05/25 11:00`  
+✅ **Task 5: Data Structures** | Lists, Tuples, Sets, Dictionaries — with methods and practice | `22/05/25 16:00`  
+✅ **Task 6: Functions** | `def`, `return`, scope, default/keyword args, lambda, map(), filter(), reduce() | `22/05/25 23:30`  
+✅ **Task 7: File Handling** | `open()`, read/write, `with`, basic CSV operations | `23/05/25 01:13`  
+✅ **Task 8: Error Handling** | `try`, `except`, `finally`, `raise` | `23/05/25`  
 
-- Introduction to Python
-- Data Types: Strings, Integers, Floats, Booleans
-- Variables, Type Casting
-- Input/Output
-- Basic Operators & Expressions
-- Comments and Best Practices
-
----
-
-### 🧮 Phase 2: Core Programming
-
-> `phase_2.ipynb`
-
-- Conditional Statements (`if`, `elif`, `else`)
-- Loops (`for`, `while`)
-- Functions (with and without arguments)
-- Lists, Tuples, Dictionaries, Sets
-- List Comprehensions
-- Error Handling (`try-except`)
-- Basic File Handling
+> 🔗 See: [`phase_1.ipynb`](./phase_1.ipynb)
 
 ---
 
-### 📊 Phase 3: Libraries & Real-World Projects
+### 🚩 PHASE 2: Intermediate & OOP
 
-> `phase_3.ipynb`
+| Task | Description |
+|------|-------------|
+✅ **Task 9: OOP** | Classes, `__init__`, `self`, Inheritance, Polymorphism, Encapsulation  
+✅ **Task 10: Pythonic Features** | List/dict comprehensions, Generators, Iterators, Decorators  
+✅ **Task 11: Regular Expressions** | `re.match()`, `search()`, `findall()`, `sub()` — used for validation (email, phone, etc.)
 
-- Working with **NumPy** for arrays and numerical computing
-- Using **pandas** for data manipulation
-- Visualizations using **matplotlib**
-- APIs with **requests**
-- Basic web backend concepts using **Flask** or **Django** (intro only)
-- Mini projects and exercises:
-  - Matrix operations
-  - CSV file analysis
-  - API data fetching
+> 🔗 See: [`phase_2.ipynb`](./phase_2.ipynb)
 
 ---
 
-## 🗺️ Python Roadmap
+### 🚩 PHASE 3: Libraries & Real-World Skills
 
-This is the complete roadmap I’m following for Python mastery:
+| Task | Description |
+|------|-------------|
+✅ **Task 12: Libraries** | NumPy, pandas, matplotlib, requests, Flask/Django (intro)  
+✅ **Task 13: Projects** | To-Do App, Expense Tracker, Weather App (API), Portfolio Site, Chatbot, Data Analysis  
+✅ **Task 14: Practice & Problem Solving** | LeetCode, HackerRank, CodeWars  
+✅ **Task 15: Pro Tools** | Clean code (PEP8), Git & GitHub, virtual env & pip, packaging & documentation
 
+> 🔗 See: [`phase_3.ipynb`](./phase_3.ipynb)
+
+---
+
+## 🧠 Skills Acquired
+
+- Python Programming (Syntax → OOP → Projects)
+- Libraries: NumPy, pandas, matplotlib, requests
+- APIs & basic backend development
+- Clean coding, error han
