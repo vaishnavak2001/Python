@@ -8,9 +8,9 @@ Welcome to my Python learning journey! This repository is a structured record of
 
 | Phase | Notebook File | Description |
 |-------|----------------|-------------|
-| ✅ Phase 1 | [`phase_1.ipynb`](.Python/phase_1.ipynb) | Core Python foundations — syntax, data types, loops, functions, file and error handling |
-| ✅ Phase 2 | [`phase_2.ipynb`](./phase_2.ipynb) | Intermediate topics — OOP, Pythonic features, regular expressions |
-| ✅ Phase 3 | [`phase_3.ipynb`](./phase_3.ipynb) | Libraries and real-world projects — NumPy, pandas, API, Flask/Django (intro), and project work |
+| ✅ Phase 1 | [`phase_1.ipynb`](./Phase_1.ipynb) | Core Python foundations — syntax, data types, loops, functions, file and error handling |
+| ✅ Phase 2 | [`phase_2.ipynb`](./Phase_2.ipynb) | Intermediate topics — OOP, Pythonic features, regular expressions |
+| ✅ Phase 3 | [`phase_3.ipynb`](./Phase_3.ipynb) | Libraries and real-world projects — NumPy, pandas, API, Flask/Django (intro), and project work |
 
 ---
 
