@@ -11,8 +11,13 @@ Welcome to my Python learning journey! This repository is a structured record of
 |  Phase 1 | [`phase_1.ipynb`](./phase_1.ipynb) | Core Python foundations — syntax, data types, loops, functions, file and error handling |
 |  Phase 2 | [`phase_2.ipynb`](./phase_2.ipynb) | Intermediate topics — OOP, Pythonic features, regular expressions |
 |  Phase 3 | [`phase_3.ipynb`](./phase_3.ipynb) | Libraries and real-world projects — NumPy, pandas, API, Flask/Django (intro), and project work |
+|  Python Practice | [`Python_Practice.ipynb`](./Python_Practice.ipynb) |  Complete Python Pratice with all phases (Core, Intermediate, Libraries & Projects) — including tasks, notes, and code examples |
 
 ---
+| Notebook File | Description |
+|---------------|-------------|
+|  [`python_learning_practice.ipynb`](./python_learning_practice.ipynb) | Complete Python roadmap with all phases (Core, Intermediate, Libraries & Projects) — including tasks, notes, and code examples |
+
 
 ##  Full Python Roadmap
 
